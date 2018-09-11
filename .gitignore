@@ -1,0 +1,6 @@
+*.txt
+*.log
+settings.py
+__pycache__
+1.py
+.idea
